@@ -1,4 +1,4 @@
-## Toward Interpretable Multimodal Violence Detection with Knowledge Distillation and Modality-Aligned Preprocessing
+## Toward Interpretable Multimodal Violence Detection with Knowledge Distillation and Modality-Aligned Preprocessing(Submitted IEEE TSMCA)
 Wen-Dong Jiang, Graduate Student Member, IEEE , Chih-Yung Chang, Member, IEEE , Ming-Yang Su, Yue-Shi Lee and Diptendu Sinha Roy, Senior Member, IEEE  
 
 This is a new work for Violence Detection 
