@@ -1,4 +1,5 @@
-# Rethinking Interpretability in Multimodal Systems for Violence Detection
+## Toward Interpretable Multimodal Violence Detection with Knowledge Distillation and Modality-Aligned Preprocessing
+# Wen-Dong Jiang, Graduate Student Member, IEEE , Chih-Yung Chang, Member, IEEE , Ming-Yang Su, Yue-Shi Lee and Diptendu Sinha Roy, Senior Member, IEEE  
 
 This is a new work for Violence Detection 
 Demo Video: https://youtu.be/cWDb_V5WQOY
